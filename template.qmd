@@ -1,0 +1,9 @@
+---
+title: "Scientific slides with Quarto"
+subtitle: "An open-source publishing system for scientific users"
+format: revealjs
+author: ""
+date: "2024/06/30"
+---
+
+# Outline

@@ -1,0 +1,13 @@
+project:
+  output-dir: _presentations
+
+filters:
+    - roughnotation
+
+format:
+  revealjs:
+    theme: simple
+    chalkboard: true
+    css: style.css
+    margin: 0.1
+    slide-number: true
