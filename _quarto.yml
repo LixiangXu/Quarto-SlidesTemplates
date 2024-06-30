@@ -12,3 +12,6 @@ format:
     slide-number: true
     filters:
       - roughnotation
+
+  html: default
+  pdf: default
