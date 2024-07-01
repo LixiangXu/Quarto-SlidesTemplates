@@ -10,8 +10,8 @@ format:
     css: style.css
     margin: 0.1
     slide-number: true
-    filters:
-      - roughnotation
+    # filters:
+    #   - roughnotation
 
   html: default
   pdf: default
